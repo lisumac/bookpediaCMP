@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia.core.presentation
+package org.lisa.bookpedia.core.presentation
 
 import androidx.compose.ui.graphics.Color
 
